@@ -5,4 +5,7 @@
     -új terminál, npm install
     -npm run / npm run dev
 
-
+-gitignore ->
+    /public/css
+    /public/js
+    /public/mix-manifest.json
